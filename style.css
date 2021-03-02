@@ -1,0 +1,703 @@
+*{
+    margin: 0px;
+}
+
+#cabecalho{
+    font-size: 20px;
+    color: white;
+    background-size: cover;
+    background-color: rgb(82, 78, 78, 0.6);
+    height: 100px;
+    width: 100%; 
+}
+
+#sessao1{
+    color: white;
+    height: 600px;
+    width: 100%;
+    background-image: url('/barbearia/Images/salao.jpg');
+    background-size: cover;
+}
+
+#sessao2{
+    background-color:  rgb(82, 78, 78);
+    height: 100%;
+    width: 100%;
+}
+
+#sessao3{
+    background-color: black;
+    width: 100%;
+    height: 180%;
+}
+
+#sessao4{
+    background-color:  rgb(82, 78, 78);
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+
+#tes2{
+    display: block;
+    margin: auto;
+    padding-top: 60px;
+    margin-bottom: 20px;
+}
+
+#tesbar{
+    display: inline-block;
+}
+
+#conj{
+    position: relative;
+    display: inline-block;
+    margin-left: 30px;
+    height: 250px;
+    width: 150px;
+}
+
+img{
+    margin-left: 100px;
+    height: 100px;
+    width: 100px;
+}
+
+#im2{
+    margin: auto;
+    margin-top: 60px;
+}
+
+#img4{
+    display: inline-block;
+    color: white;
+    margin: auto;
+    margin-right: 200px;
+    margin-left: 150px;
+}
+
+#img5{
+    display: inline-block;
+    color: white; 
+    margin: auto;
+    margin-right: 200px;
+}
+
+#img6{
+    display: inline-block;
+    color: white; 
+    margin: auto;
+    margin-right: 200px;
+}
+
+#img7{
+    display: inline-block;
+    color: white; 
+    margin: auto;
+    margin-right: 150px;
+}
+
+ul{
+    float: right;
+    margin-right: 50px;
+    margin-top: 40px;
+    word-spacing: 100px;
+}
+
+il:hover{
+    background-color: brown;
+}
+
+#p1{
+    text-align: right;
+    margin-right: 200px;
+    margin-top: 100px;
+}
+
+#p2{
+    text-align: right;
+    font-size: 40px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+
+#p3{
+    text-align: right;
+    margin-right: 200px;
+    font-size: 40px;
+    color: rgb(223, 223, 59);
+}
+
+#p4{
+    display:inline-block;
+    margin-right: 200px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+#p5{
+    display: block;
+    font-size: 40px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#p6{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#p7{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+
+#p8{
+    text-align: center;
+    color: white;
+}
+
+#p9{
+    text-align: center;
+    color: white;
+}
+
+#p10{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#p11{
+    color: white;
+}
+
+#p12{
+    margin-top: 80px;
+    color: white;
+}
+
+#s1{
+    color: white;
+}
+
+#s2{
+    color: white;
+    margin-left: 170px;
+}
+
+#s3{
+    color: white;
+}
+
+#s4{
+    color: white;
+    margin-left: 165px;
+}
+
+#abertura{
+    position: relative;
+    bottom: 200px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+#fechamento{
+    position: relative;
+    margin-top: -100px;
+    margin-left: 20px;
+    bottom: 200px
+}
+
+#form{
+    position: relative;
+    margin-left: 800px;
+    bottom: 240px;
+}
+
+#drop1{
+    width: 177px;
+    margin-left: 30px;
+}
+
+#drop2{
+    width: 177px;
+}
+
+#grupo2{
+    margin-top: 20px;
+}
+
+#envio{
+    margin-top: 20px;
+    margin-left: 125px;
+    width: 150px;
+}
+
+#c4{
+    margin-left: 30px;
+}
+
+#perna{
+    padding-right: 20px;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+}
+
+#taz{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+}
+
+#picapau{
+    padding-left: 20px;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+}
+
+#pente{
+    padding-top: 60px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#espe1{
+    display: inline-block;
+}
+
+#espe2{
+    display: inline-block;
+}
+
+#espe3{
+    display: inline-block;
+}
+
+#especialistas{
+    width: 100%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#teste1{
+    position: relative;
+    color: white;
+    left: -280px;
+    display: inline-block;
+    
+}
+
+#teste2{
+    position: relative;
+    color: white;
+    left: -130px;
+    display: inline-block;
+}
+
+#teste3{
+    position: relative;
+    color: white;
+    left: 60px;
+    display: inline-block;
+}
+
+#teste4{
+    position: relative;
+    color: white;
+    left: 270px;
+    display: inline-block;
+}
+
+#g1{
+    text-align: center;
+}
+
+#titulo{
+    margin-left: 0px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+#container{
+    text-align:right;
+}
+
+#container2{
+    text-align: center;
+}
+
+#container3{
+    display:inline-block;
+}
+
+#tes{
+    font-size: 15px;
+    color: white;
+    position: relative;
+    left:-170px;
+    display: inline-block;
+    margin-bottom: 60px;
+}
+
+#nav{
+    font-size: 15px;
+    color: white;
+    position: relative;
+    left: -40px;
+    display: inline-block;
+    margin-bottom: 60px;
+}
+
+#cor{
+    font-size: 15px;
+    color: white;
+    position: relative;
+    left: 80px;
+    display: inline-block;
+    margin-bottom: 60px;
+}
+
+#lim{
+    font-size: 15px;
+    color: white;
+    position: relative;
+    left: 180px;
+    display: inline-block;
+    margin-bottom: 60px;
+}
+
+#paragrafos{
+    display: block;
+}
+
+#bloco{
+   text-align: center;
+}
+
+.links:hover{
+    background-color: brown;
+}
+
+@media screen and (max-width: 360px){
+    #sessao1{
+        color: white;
+        height: 600px;
+        width: 360px;
+        background-image: url('/barbearia/Images/salao.jpg');
+        background-size: cover;
+    }
+
+    #sessao2{
+    background-color:  rgb(82, 78, 78);
+    height: 1200px;
+    width: 360px;
+    }
+
+    #cabecalho{
+        font-size: 20px;
+        color: white;
+        background-size: cover;
+        background-color: rgb(82, 78, 78, 0.6);
+        height: 100px;
+        width: 360px; 
+    }
+
+    ul{
+        margin-right: 0px;
+        padding: 0px;
+        margin-top: 5px;
+        width: 100px;
+    }
+
+    img{
+        margin-left: 0px;
+        height: 100px;
+        width: 100px;
+    }
+
+    il:hover{
+        background-color: brown;
+    }
+
+    #p1{
+        margin-right: 10px;
+    }
+    
+    #p2{
+        font-size: 40px;
+        margin-right: 10px;
+    }
+    
+    #p3{
+        margin-right: 10px;
+        font-size: 40px;
+        color: rgb(223, 223, 59);
+    }
+
+    #p4{
+        display:inline-block;
+        margin-right: 10px;
+        padding: 10px;
+        border: 2px solid black;
+    }
+
+     #container3{
+        display:inline-block;
+    }
+
+    #img4{
+        display: inline-block;
+        color: white;
+        margin-left: 0px;
+        margin-bottom: 120px;
+        
+    }
+    
+    #img5{
+        display: inline-block;
+        color: white;
+        margin-bottom: 120px;
+    }
+    
+    #img6{
+        display: inline-block;
+        color: white; 
+        margin-bottom: 120px;
+    }
+    
+    #img7{
+        display: inline-block;
+        color: white; 
+        position: relative;
+        right: 25px;
+        margin-bottom: 120px;
+    }
+
+    #titulo{
+        display: inline;
+    }
+
+    #teste1{
+        color: white;
+        position: relative;
+        left: 140px;
+        bottom: 900px;
+    }
+    
+    #teste2{
+        position: relative;
+        color: white;
+        left: -10px;
+        bottom: 675px;
+    }
+    
+    #teste3{
+        position: relative;
+        color: white;
+        left: 90px;
+        bottom: 470px;
+    }
+    
+    #teste4{
+        position: relative;
+        color: white;
+        left: 16px;
+        bottom: 245px;
+    }
+
+    #tes{
+        font-size: 12px;
+        color: white;
+        position: relative;
+        left: 120px;
+        bottom: 890px;
+        text-align: justify;
+    }
+    
+    #nav{
+        font-size: 12px;
+        color: white;
+        position: relative;
+        left: -35px;
+        bottom: 665px;
+        text-align: justify;
+    }
+    
+    #cor{
+        font-size: 12px;
+        color: white;
+        position: relative;
+        left: 140px;
+        bottom: 560px;
+        text-align: justify;
+    }
+    
+    #lim{
+        font-size: 12px;
+        color: white;
+        position: relative;
+        left: -10px;
+        bottom: 335px;
+        text-align: justify;
+    }
+
+    #perna{
+        display: block;
+        padding-right: 0px;
+        text-align: center;
+        width: 300px;
+        height: 300px;
+    }
+    
+    #taz{
+        margin: auto;
+        width: 310px;
+        height: 300px;
+    }
+    
+    #picapau{
+        padding-left: 0px;
+        margin: auto;
+        width: 300px;
+        height: 300px;
+    }
+
+    #p7{
+        text-align: center;
+        color: white;
+        font-size: 15px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    
+    #p8{
+        text-align: center;
+        color: white;
+        margin-bottom: 5px;
+    }
+    
+    #p9{
+        text-align: center;
+        color: white;
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+
+    #sessao3{
+        background-color: black;
+        width: 360px;
+        height: 180%;
+    }
+
+    #sessao4{
+        background-color:  rgb(82, 78, 78);
+        width: 360px;
+        height: 100%;
+        display: inline-block;
+    }
+
+    #pente{
+        padding-top: 60px;
+        display: block;
+        margin: auto;
+    }
+
+    #p10{
+        font-size: 40px;
+        color: white;
+        text-align: center;
+    }
+
+    #abertura{
+        margin-left: 0px;
+        display: inline-block;
+        width: 360px;
+        margin-top: 200px;
+    }
+
+    #p11{
+        text-align: center;
+        margin: auto;
+        color: white;
+        margin-bottom: 10px;
+    }
+
+    #s1{
+        display:inline-block;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        color: white;
+    }
+    
+    #s2{
+        color: white;
+        margin-left: 150px;
+    }
+    
+    #fechamento{
+        margin-top: -100px;
+        margin-left: 0px;
+    }
+
+    #p12{
+        margin-top: 60px;
+        margin-bottom: 10px;
+        text-align: center;
+        color: white;
+    }
+
+    #s3{
+        display:inline-block;
+        color: white;
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }
+    
+    #s4{
+        color: white;
+        margin-left: 143px;
+    }
+
+    #tesbar{
+        display: block;
+        text-align: center;
+        transform: translateY(-150px);
+    }
+    
+    #conj{
+        display: block;
+        margin: auto;
+    }
+
+    #form{
+        margin-left: 20px;
+        transform: translateY(240px);
+    }
+
+    #drop1{
+        width: 177px;
+        margin-left: 0px;
+    }
+    
+    #drop2{
+        width: 177px;
+    }
+
+    #c4{
+        margin-left: 0px;
+    }
+
+    #envio{
+        margin-left: 80px;
+        transform: translateY(0px);
+    }
+}
